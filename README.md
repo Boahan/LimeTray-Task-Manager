@@ -2,7 +2,7 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Tailwind CSS. This application helps users manage their daily tasks with a beautiful, responsive interface and powerful features.  
 
-![Task Manager App](https://github.com/user-attachments/assets/45179f9a-f732-4b31-b5a0-3a26012dec9c)  
+![Task Manager App](![image](https://github.com/user-attachments/assets/69f04444-07ae-4c07-adce-2f6d17061ada))  
 
 ## ✨ **Features**  
 
@@ -66,10 +66,10 @@ The project is deployed and accessible at:
 ## 📱 **Screenshots**  
 
 ### **Light Mode**  
-![Light Mode](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)  
+![Light Mode](![image](https://github.com/user-attachments/assets/7b21c7bb-7afd-4738-a8bc-652da4c55245))  
 
 ### **Dark Mode**  
-![Dark Mode](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=2070)  
+![Dark Mode](![image](https://github.com/user-attachments/assets/dc930042-621d-49b7-be7b-8352d2b0f3de))  
 
 ## 📧 **Contact Me**  
 If you have any questions or suggestions, feel free to reach out:  
