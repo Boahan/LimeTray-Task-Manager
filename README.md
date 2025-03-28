@@ -2,8 +2,8 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Tailwind CSS. This application helps users manage their daily tasks with a beautiful, responsive interface and powerful features.  
 
-![Task Manager App]([[![image](https://github.com/user-attachments/assets/69f04444-07ae-4c07-adce-2f6d17061ada)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png?raw=true))  
-
+![Task Manager App]([[[[![image](https://github.com/user-attachments/assets/69f04444-07ae-4c07-adce-2f6d17061ada)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png?raw=true)](https://raw.githubusercontent.com/Boahan/LimeTray-Task-Manager/main/images/dark.png](https://raw.githubusercontent.com/Boahan/LimeTray-Task-Manager/main/images/dark.png
+)
 ## ✨ **Features**  
 
 ### **Task Management**  
