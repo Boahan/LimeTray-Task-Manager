@@ -2,7 +2,8 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Tailwind CSS. This application helps users manage their daily tasks with a beautiful, responsive interface and powerful features.
 
-![Task Manager App](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?auto=format&fit=crop&q=80&w=2072)
+![Task Manager App](![image](https://github.com/user-attachments/assets/45179f9a-f732-4b31-b5a0-3a26012dec9c)
+)
 
 ## ✨ Features
 
@@ -69,14 +70,6 @@ npm run dev
 
 ### Dark Mode
 ![Dark Mode](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=2070)
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📄 License
 
