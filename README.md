@@ -70,33 +70,6 @@ npm run dev
 ### Dark Mode
 ![Dark Mode](https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&q=80&w=2070)
 
-## 🌟 Key Features Explained
-
-### Local Storage Persistence
-Tasks are automatically saved to the browser's local storage, ensuring your data persists between sessions.
-
-### Theme Toggle
-The app supports both light and dark modes, with the theme preference being saved to local storage.
-
-### Drag and Drop
-Tasks can be reordered using drag and drop functionality, providing an intuitive way to prioritize tasks.
-
-### Performance Optimization
-- Uses React.memo for optimized rendering
-- Implements useCallback and useMemo hooks
-- Custom hooks for better code organization
-
-## 📝 Project Structure
-
-```
-src/
-├── components/         # React components
-├── context/           # React Context
-├── hooks/             # Custom hooks
-├── types/             # TypeScript types
-└── main.tsx           # Entry point
-```
-
 ## 🤝 Contributing
 
 1. Fork the repository
