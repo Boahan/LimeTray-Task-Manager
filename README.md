@@ -2,7 +2,7 @@
 
 A modern, feature-rich task management application built with React, TypeScript, and Tailwind CSS. This application helps users manage their daily tasks with a beautiful, responsive interface and powerful features.  
 
-![Task Manager App]([![image](https://github.com/user-attachments/assets/69f04444-07ae-4c07-adce-2f6d17061ada)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png))  
+![Task Manager App]([[![image](https://github.com/user-attachments/assets/69f04444-07ae-4c07-adce-2f6d17061ada)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png?raw=true))  
 
 ## ✨ **Features**  
 
@@ -66,10 +66,10 @@ The project is deployed and accessible at:
 ## 📱 **Screenshots**  
 
 ### **Light Mode**  
-![Light Mode]([![image](https://github.com/user-attachments/assets/7b21c7bb-7afd-4738-a8bc-652da4c55245)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/light.png))  
+![Light Mode]([[![image](https://github.com/user-attachments/assets/7b21c7bb-7afd-4738-a8bc-652da4c55245)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/light.png)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/light.png?raw=true))  
 
 ### **Dark Mode**  
-![Dark Mode]([![image](https://github.com/user-attachments/assets/dc930042-621d-49b7-be7b-8352d2b0f3de)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png))  
+![Dark Mode]([[![image](https://github.com/user-attachments/assets/dc930042-621d-49b7-be7b-8352d2b0f3de)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png)](https://github.com/Boahan/LimeTray-Task-Manager/blob/main/images/dark.png?raw=true))  
 
 ## 📧 **Contact Me**  
 If you have any questions or suggestions, feel free to reach out:  
